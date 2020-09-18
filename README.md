@@ -1,4 +1,4 @@
-# CPSC6420-Artificial-Intelligence
+# [CPSC6420-Artificial-Intelligence](https://sites.google.com/a/g.clemson.edu/cpsc-ai/)
 Assignments of the Artificial Intelligence course offered in Fall 2020 at Clemson
 
 # Course Modules
@@ -33,13 +33,16 @@ Assignments of the Artificial Intelligence course offered in Fall 2020 at Clemso
   - Robotics/graphics applications
 
 # Assignments
-## [Project 1 Search Algorithms](https://github.com/anaskhan496/CPSC6420-Artificial-Intelligence/tree/master/1-Search-Algorithms)
+## [Project 1 Search Algorithms](https://github.com/srivas18/CPSC6420-Artificial-Intelligence/tree/master/1-Search-Algorithms)
 
 - Depth First Search
-![](https://github.com/anaskhan496/CPSC6420-Artificial-Intelligence/blob/master/1-Search-Algorithms/Depth-first-search.gif )
+
+![](https://github.com/srivas18/CPSC6420-Artificial-Intelligence/blob/master/1-Search-Algorithms/Depth-first-search.gif )
 
 - Uniform Cost Search
-![](https://github.com/anaskhan496/CPSC6420-Artificial-Intelligence/blob/master/1-Search-Algorithms/Uniform-cost-search.gif)
+
+![](https://github.com/srivas18/CPSC6420-Artificial-Intelligence/blob/master/1-Search-Algorithms/Uniform-cost-search.gif)
 
 - A-star Search
-![](https://github.com/anaskhan496/CPSC6420-Artificial-Intelligence/blob/master/1-Search-Algorithms/Astar-search.gif)
+
+![](https://github.com/srivas18/CPSC6420-Artificial-Intelligence/blob/master/1-Search-Algorithms/Astar-search.gif)
